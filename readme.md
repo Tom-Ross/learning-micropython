@@ -17,7 +17,7 @@
 
 * install esptools in your (project specific virtual) python environment
 
-  `pip install esptools`
+  `pip install esptool`
 
 * if you are using PyCharm (IntellijIDEA) make sure micropython plugin is installed
     * **File -> Settings -> Plugin -> Marketplace** -> search for MicroPython
