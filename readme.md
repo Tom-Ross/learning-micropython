@@ -15,6 +15,10 @@
 
 ### Getting started
 
+* download USB-driver for CP210x
+
+  https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
+
 * install esptools in your (project specific virtual) python environment
 
   `pip install esptool`
